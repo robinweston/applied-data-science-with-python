@@ -4,3 +4,4 @@ pandas
 scipy
 xlrd
 matplotlib
+colour
