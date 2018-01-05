@@ -7,3 +7,4 @@ matplotlib
 colour
 seaborn
 sklearn
+nltk
